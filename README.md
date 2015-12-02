@@ -1,7 +1,14 @@
 # Data Driven Workshop
 ## Links and materials
 #### Derek Willis and Tim Marema
-#### [http://bit.ly/wvudata](http://bit.ly/wvudata)
+#### [Project page](http://innocenter-wvureedcollegeofmedia.github.io/data-driven-workshop)
+
+### Full Videos
+
+* [Morning session 1](https://www.youtube.com/watch?v=MisYpKVa6hU)
+* [Morning session 2](https://www.youtube.com/watch?v=SfXLCDh9u8c)
+* [Afternoon session 1 (Excel)](https://www.youtube.com/watch?v=khNY2J2HaVU)
+* [Afternoon session 2 (Mapping)](https://www.youtube.com/watch?v=LisaqY2Muxw)
 
 ### Demographics
 
