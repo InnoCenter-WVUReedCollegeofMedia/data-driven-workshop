@@ -1,7 +1,7 @@
 # Data Driven Workshop
 ## Links and materials
 #### Derek Willis and Tim Marema
-#### [Project page](http://innocenter-wvureedcollegeofmedia.github.io/data-driven-workshop)
+#### [Project page](http://wvu-ric.github.io/data-driven-workshop)
 
 ### Full Videos
 
